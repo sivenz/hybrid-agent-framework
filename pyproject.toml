@@ -1,0 +1,76 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hybrid-agent-framework"
+version = "0.1.0"
+description = "Combine OpenAI's orchestration with Claude's system execution for production-ready AI agents"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "Moses Rajan", email = "moses@cogniolab.com"}
+]
+keywords = ["ai", "agents", "openai", "claude", "anthropic", "automation", "llm", "orchestration"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Topic :: Software Development :: Libraries :: Application Frameworks",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+
+dependencies = [
+    "openai-agents>=0.1.0",
+    "anthropic>=0.18.0",
+    "pydantic>=2.0.0",
+    "aiohttp>=3.9.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-asyncio>=0.21.0",
+    "pytest-cov>=4.0.0",
+    "black>=23.0.0",
+    "mypy>=1.0.0",
+    "ruff>=0.1.0",
+]
+tracing = [
+    "logfire>=0.1.0",
+    "opentelemetry-api>=1.20.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/cogniolab/hybrid-agent-framework"
+Documentation = "https://github.com/cogniolab/hybrid-agent-framework/tree/main/docs"
+Repository = "https://github.com/cogniolab/hybrid-agent-framework"
+Issues = "https://github.com/cogniolab/hybrid-agent-framework/issues"
+
+[tool.black]
+line-length = 100
+target-version = ['py310', 'py311', 'py312']
+include = '\.pyi?$'
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+asyncio_mode = "auto"
