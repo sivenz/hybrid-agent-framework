@@ -429,14 +429,6 @@ Full documentation: [https://hybrid-agent-framework.readthedocs.io](https://hybr
 
 ---
 
-## 🎤 Talks & Articles
-
-- 📝 [LinkedIn Article: The OpenAI + Claude Power Duo](link-to-article)
-- 🎥 [YouTube: Building Production AI Agents](link-to-video)
-- 📊 [Slides: Hybrid Agent Architecture](link-to-slides)
-
----
-
 ## 📜 License
 
 MIT License - see [LICENSE](./LICENSE)
