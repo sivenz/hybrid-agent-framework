@@ -453,10 +453,10 @@ MIT License - see [LICENSE](./LICENSE)
 
 ## 📧 Contact
 
-**Author**: [Your Name]
-- LinkedIn: [your-linkedin]
-- Twitter: @[your-twitter]
-- Email: your-email@example.com
+**Author**: Moses Rajan
+- LinkedIn: https://www.linkedin.com/in/mosesrajanpro/
+- Twitter: @mosesprajan
+- Email: dev@cogniolab.com
 
 ---
 
