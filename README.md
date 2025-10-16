@@ -447,7 +447,6 @@ MIT License - see [LICENSE](./LICENSE)
 
 **Author**: Moses Rajan
 - LinkedIn: https://www.linkedin.com/in/mosesrajanpro/
-- Twitter: @mosesprajan
 - Email: dev@cogniolab.com
 
 **Support**:
