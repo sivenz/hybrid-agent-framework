@@ -443,22 +443,15 @@ MIT License - see [LICENSE](./LICENSE)
 
 ---
 
-## 📧 Contact
+## 💬 Community
 
-**Author**: Moses Rajan
-- LinkedIn: https://www.linkedin.com/in/mosesrajanpro/
-- Email: dev@cogniolab.com
+Join our community to ask questions, share ideas, and connect with other developers building production-grade AI agents!
 
-**Support**:
-- **GitHub Issues**: [Report bugs or request features](https://github.com/cogniolab/hybrid-agent-framework/issues)
+- **[GitHub Discussions](https://github.com/cogniolab/hybrid-agent-framework/discussions)** - Ask questions, share your work, and discuss best practices
+- **[GitHub Issues](https://github.com/cogniolab/hybrid-agent-framework/issues)** - Report bugs or request features
+- **Email**: dev@cogniolab.com
 
----
-
-## ⭐ Star History
-
-If you find this useful, please consider starring the repo!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=cogniolab/hybrid-agent-framework&type=Date)](https://star-history.com/#cogniolab/hybrid-agent-framework&Date)
+We're building a supportive community where developers help each other create AI agents that actually work in production. Whether you're just getting started or have years of experience, your questions and contributions are welcome!
 
 ---
 
