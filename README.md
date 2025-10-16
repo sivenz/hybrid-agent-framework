@@ -450,14 +450,19 @@ MIT License - see [LICENSE](./LICENSE)
 - Twitter: @mosesprajan
 - Email: dev@cogniolab.com
 
+**Support**:
+- **GitHub Issues**: [Report bugs or request features](https://github.com/cogniolab/hybrid-agent-framework/issues)
+
 ---
 
 ## ⭐ Star History
 
 If you find this useful, please consider starring the repo!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/hybrid-agent-framework&type=Date)](https://star-history.com/#your-username/hybrid-agent-framework&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=cogniolab/hybrid-agent-framework&type=Date)](https://star-history.com/#cogniolab/hybrid-agent-framework&Date)
 
 ---
 
-**Built with ❤️ by developers who are tired of AI agents that can't actually do anything useful in production.**
+**Built with ❤️ by [Cognio Lab](https://cogniolab.com)**
+
+*Making AI agents that actually work in production.*
